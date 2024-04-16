@@ -1,0 +1,26 @@
+{
+    "nomes masculinos": [
+		"Arthur", "Bernardo", "Davi", "Gabriel", "Heitor",
+		"Joaquim", "Lorenzo", "Miguel", "Murilo", "Pedro",
+		"Rafael", "Samuel", "Théo", "Vicente", "Benjamin",
+		"Eduardo", "Felipe", "Gabriel", "Lucas", "Matheus",
+		"Rodrigo", "Henrique", "Wendell", "Ricardo", "Thiago",
+		"Mauri", "Juan", "Paulo", "Fernando", "Emanuel"
+    ],
+    "nomes femininos": [
+		"Sophia", "Manuela", "Maitê", "Elizabeth", "Cecília",
+		"Isabella", "Luísa", "Heloísa", "Júlia", "Maria Luísa",
+		"Isis", "Elisa", "Antonia", "Valentina", "Maria Júlia",
+		"Lara", "Ana Clara", "Lívia", "Esther", "Giovanna",
+		"Sarah", "Lorena", "Beatriz", "Rebecca", "Luna",
+		"Olívia", "Mariana", "Isadora", "Melissa", "Catarina"	
+    ],
+    "sobrenomes": [
+    	"Brandão", "Braga", "Silva", "Benevides", "Barreto", 
+        "Barros", "Barbosa", "Cardoso", "Jesus", "Lopes",
+        "Leopoldo", "Machado", "Mendonça", "Nunes", "Oliveira", 
+        "Ribeiro", "Vieira", "Gomes", "Sampaio", "Pires", 
+        "Cavalcante", "Melo", "Almeida", "Ferreira", "Rodrigues", 
+        "Pereira", "Dias", "Fernandes", "Esteves", "Quaresma"
+    ] 
+}

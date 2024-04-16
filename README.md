@@ -42,5 +42,5 @@ Este projeto é um gerador de nomes aleatórios baseado em arquivos JSON contend
 - Certifique-se de tratar as exceções adequadamente, especialmente durante a leitura do arquivo JSON.
 =======
 # gerador-de-nomes
-Este projeto visa focar no aprendizado de programação em Java.
->>>>>>> b5d77a15fe88f9b368b93b1caff2c8934b7184f2
+Este projeto visa o aprendizado de programação em Java.
+>>>>>>> 3831d71bf30c678266b19399ed3bd5281c14697f

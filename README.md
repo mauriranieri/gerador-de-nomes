@@ -40,7 +40,6 @@ Este projeto é um gerador de nomes aleatórios baseado em arquivos JSON contend
 - A classe `NomesPessoas` inclui métodos para verificar se as listas de nomes são nulas ou vazias e para ler os nomes concatenados em um única string.
 
 - Certifique-se de tratar as exceções adequadamente, especialmente durante a leitura do arquivo JSON.
-=======
+
 # gerador-de-nomes
 Este projeto visa o aprendizado de programação em Java.
->>>>>>> 3831d71bf30c678266b19399ed3bd5281c14697f

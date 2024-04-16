@@ -4,7 +4,9 @@ Este projeto é um gerador de nomes aleatórios baseado em arquivos JSON contend
 
 <br>
 
-![Descrição da imagem](src/imagens/arquivo.gif)
+<p align="center">
+  <img src="src/imagens/arquivo.gif" alt="Descrição da Imagem">
+</p>
 
 <br>
 
@@ -29,9 +31,9 @@ Este projeto é um gerador de nomes aleatórios baseado em arquivos JSON contend
 
 3. Geração de Nomes
 
-    Depois de executado o programa, você poderá gerar nomes aleatórios escolhendo um gênero e clicando em *Criar Nome*. Note que para gerar um nome, você precisa selecionar uma das opções.
+    Depois de executado o programa, você poderá gerar nomes aleatórios escolhendo um gênero e clicando em *Criar Nome*. Note que, para gerar um nome, você precisa selecionar uma das opções.
 
-## Obsevações 
+## Observações 
 
 - Certifique-se de que o arquivo JSON contendo as listas de nomes esteja corretamente formatado e acessível pelo programa.
 
@@ -40,6 +42,3 @@ Este projeto é um gerador de nomes aleatórios baseado em arquivos JSON contend
 - A classe `NomesPessoas` inclui métodos para verificar se as listas de nomes são nulas ou vazias e para ler os nomes concatenados em um única string.
 
 - Certifique-se de tratar as exceções adequadamente, especialmente durante a leitura do arquivo JSON.
-
-# gerador-de-nomes
-Este projeto visa o aprendizado de programação em Java.
